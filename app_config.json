@@ -2,6 +2,6 @@
   "features": {
     "share_post": true,
     "favourite_post": true,
-    "quiz_enabled": true,
+    "quiz_enabled": true
   }
 }
