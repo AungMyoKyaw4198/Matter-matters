@@ -1,5 +1,6 @@
 {
   "features": {
+    "mobile_ui": true,
     "share_post": true,
     "favourite_post": true,
     "quiz_enabled": true
