@@ -3,6 +3,6 @@
     "mobile_ui": false,
     "share_post": false,
     "favourite_post": false,
-    "quiz_enabled": false
+    "quiz_enabled": true
   }
 }
