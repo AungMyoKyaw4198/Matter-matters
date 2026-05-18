@@ -1,8 +1,11 @@
 {
   "features": {
-    "mobile_ui": false,
-    "share_post": false,
-    "favourite_post": false,
-    "quiz_enabled": false
+    "share_post": true,
+    "favourite_post": true,
+    "mobile_ui": true,
+    "donation_enabled": true,
+    "events_enabled": false,
+    "quiz_enabled": false,
+    "news_enabled": false
   }
 }
